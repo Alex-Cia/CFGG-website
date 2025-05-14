@@ -86,7 +86,7 @@ No installation needed — it's a static site!
 ## 🙋‍♀️ About Me
 
 This website was built as my final project for the **Code First Girls Introduction to Web Development** course.  
-I developed the project using **PyCharm** on Windows with a focus on UX, code clarity, and accessibility.
+I developed the project using **PyCharm** with a focus on UX, code clarity, and accessibility.
 
 ---
 
@@ -99,7 +99,8 @@ I developed the project using **PyCharm** on Windows with a focus on UX, code cl
 
 ---
 
-👤 Author
+## 👤 Author
+
 Made with 🧠 and curiosity by Alex
 
 _CFGG is a fictional brand created for educational purposes._
